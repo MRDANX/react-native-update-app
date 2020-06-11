@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNUpdateApp
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/author/RNUpdateApp.git"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
